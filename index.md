@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## My Progress Journal
+
+Assignment 1
+
+[RMarkdown Homework](https://pjournal.github.io/boun01-irmakdai/temp.html)
 
 You can use the [editor on GitHub](https://github.com/pjournal/gh-pages-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
