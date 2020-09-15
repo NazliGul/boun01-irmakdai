@@ -11,3 +11,7 @@ Assignment 2
 Assignment 3  
 
 [Esoph and Young People Survey](https://pjournal.github.io/boun01-irmakdai/assignment3.html)
+
+Group Progress Journal
+
+[Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
