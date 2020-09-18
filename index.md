@@ -15,3 +15,7 @@ Assignment 3
 Group Progress Journal
 
 [Bıktık R'tık Progress Journal](https://pjournal.github.io/boun01g-biktik-r-tik/)
+
+Course Webpage
+
+[Bogazici University IE 48A Summer 2020](https://boun-ie48a.github.io/)
